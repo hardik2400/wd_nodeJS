@@ -1,4 +1,4 @@
 hello = () =>{
-    console.log("Welcome to learn NodeJS")
+    console.log("Hello Node.Js! Trying it for the first time")
 }
 hello()
